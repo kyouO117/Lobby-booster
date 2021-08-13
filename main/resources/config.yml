@@ -1,0 +1,20 @@
+#Lobby-Booster
+#author is kyou0117
+
+Worlds:
+- world
+
+Block: STRUCTURE_BLOCK
+
+PressurePlate: STONE_PRESSURE_PLATE
+
+push-height: 1
+
+push-distance: 2
+
+Sound: ENTITY_GHAST_SHOOT
+
+sound-pitch: 1.5
+
+sound-volume: 100
+

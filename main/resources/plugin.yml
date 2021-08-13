@@ -1,0 +1,8 @@
+name: Lobby-Booster
+version: "1.0"
+api-version: "1.16"
+main: me.kyou0117.Main
+author: kyou0117
+commands:
+  lobby-booster:
+    permission: lobbybooster.usecommand
